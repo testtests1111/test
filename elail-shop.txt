@@ -1,0 +1,50 @@
+1. настроить ссылки на продукт 10min.!
+2. related Products  30min!
+3. sizes block!
+
+
+4. 
+Зaвернуть в Div!
+Начинаем с категорий, именно сюда встраиваем ajax
+Вывод всех категорий брендов текущих
+При нажатии на чек-бокс обновляется DIV 
+
+
+
+add cart 1hour
+add  to compare 30min
+add to wish list 
+registration /login 1 hour
+
+
+ЧИсто с категориями мы разобрались они выводятся formu с загрузкой страницы products
+
+
+Пусть будет 3 поля c кнопками
+
+после нажатие на сераере принимаем название кнопки 
+котроллер ловит потом еншк
+выбираем название из кнопки делаем зоответственный запрос mysql
+
+
+Нажал на categories соответственно уже есть categories
+Нажал на бренд соответственно уже есть brand
+
+Нажал на availability соответственно уже есть availability
+
+
+размерил конечно мутно но розтбрались Создаем новую таблицу размерами и переработаю код это одето минут 20
+
+
+PRICE RANGE 
+Попробувати методом тика 
+ресурси:
+http://stackoverflow.com/questions/22475394/get-the-product-from-the-price-range-slider-using-ajax-post-method
+
+
+
+http://www.codexworld.com/price-range-slider-jquery-ajax-php-mysql/
+
+
+http://jsfiddle.net/gyoshev/Gxpfy/
+
